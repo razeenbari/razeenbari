@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @razeenbari
 - 👀 I’m studing Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Data Analysis
+- 💞️ I’m looking for python development job
 - 📫 How to reach me? you can mail me on mrazeenbari@gmail.com
 
 <!---
